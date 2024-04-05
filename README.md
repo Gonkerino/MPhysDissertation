@@ -8,3 +8,5 @@ This page includes:
 * Code in the form of MATLAB .m files
 * Figures in the form  .png files (with acompnying code for some)
 * latex files for creating the report as it stands in Overleaf
+
+To access the information, the files are included in a .zip file to be downloaded
